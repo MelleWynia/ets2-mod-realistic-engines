@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : bdg_510.daf.xf.badge
+{
+	exterior_model: "/vehicle/truck/upgrade/badges/daf_xf/badge_510.pmd"
+	suitable_for[]: "mx375.daf.xf.engine"
+	suitable_for[]: "mx13_375ecoc.daf.xf.engine"
+	suitable_for[]: "mx13_375ecot.daf.xf.engine"
+	suitable_for[]: "mx13_375pwrt.daf.xf.engine"
+}
+}

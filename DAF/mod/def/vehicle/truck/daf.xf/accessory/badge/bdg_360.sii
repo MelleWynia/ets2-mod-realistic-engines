@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_addon_data : bdg_360_mod.daf.xf.badge
+{
+	exterior_model: "/vehicle/truck/upgrade/badges/daf_xf/badge_360.pmd"
+	suitable_for[]: "mx265.daf.xf.engine"
+	suitable_for[]: "px7_231_eco.daf.xf.engine"
+}
+}

@@ -5,10 +5,10 @@ SiiNunit
 mod_package : .package_name {
 
     # Package version can be any string with any length.
-    package_version: "1.0.0RC2"
+    package_version: "1.0.0APLHA"
 
     # Display name can be any string with any length.
-    display_name: "Realistic DAF engines (+ chip & tune) 1.0.0RC2"
+    display_name: "DAF - Realistic engines 1.0.0APLHA"
 
     # Author can be any string with any length.
     author: "Mell"

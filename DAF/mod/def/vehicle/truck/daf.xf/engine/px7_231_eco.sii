@@ -6,7 +6,7 @@ accessory_engine_data : px7_231_eco.daf.xf.engine
 	price: 46
 	unlock: 1 
 	info[]: "381 @@hp@@ (280@@kw@@)"
-	info[]: "Max 13tons - 1@@dg@@375 @@nm@@"
+	info[]: "13tons - 1@@dg@@375 @@nm@@"
 	info[]: "1@@dg@@100-1@@dg@@900 @@rpm@@"
 	icon: "engine_01"
 	rpm_idle: 575

@@ -1,6 +1,6 @@
 # DAF - Realistic engines
 
-![Torque curves](README-CRUVES.jpg "Torque curves")
+![Torque curves](README-CURVES.png "Torque curves")
 
 ##### PACCAR MX-13 375 (Ecochip)
 
